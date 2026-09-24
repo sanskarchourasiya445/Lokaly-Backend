@@ -1312,7 +1312,6 @@ Lokaly is deployed to containerized Node.js hosting environments such as **Rende
 
 ### Related Repositories
 - **Lokaly Frontend**: [https://github.com/sanskarchourasiya445/Lokaly-Frontend](https://github.com/sanskarchourasiya445/Lokaly-Frontend) — React 18, Vite, Tailwind CSS, Lucide icons, Zustand state management, and Agora Web RTC SDK.
-- **Lokaly Backend**: [https://github.com/sanskarchourasiya445/Lokaly-Backend](https://github.com/sanskarchourasiya445/Lokaly-Backend) — Node.js, Express, MongoDB, Socket.IO, `@xenova/transformers`.
 
 ### License
 This project is licensed under the [MIT License](LICENSE).
